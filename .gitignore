@@ -1,0 +1,16 @@
+# Downloaded third-party data (download separately with download_data.py)
+data/
+# Spark results, learned model files and transient outputs
+outputs/
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+# Logs and local config
+*.log
+.env
+.DS_Store
+.idea/
+.vscode/
